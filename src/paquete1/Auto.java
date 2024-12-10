@@ -10,7 +10,7 @@ public class Auto {
         num_autos++;
     }
 
-    void adelantar(){
+    public void adelantar(){
         System.out.println("Puedo adelantar autos");
     }
 
